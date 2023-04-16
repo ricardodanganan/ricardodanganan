@@ -9,15 +9,9 @@
 
 - 👯 I’m not doing collaborations at the moment
 
-- 📫 How to reach me: **ricardo_danganan@yahoo.com** and  <a href="https://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/?profileId=ACoAADUnhZQBi_pa1lGAuWV1DlgqQj328B9WyZU" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My LinkedIn
-  </a> &nbsp; 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ttps://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttps://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ttps://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ttps://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/](https://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/?profileId=ACoAADUnhZQBi_pa1lGAuWV1DlgqQj328B9WyZU)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
