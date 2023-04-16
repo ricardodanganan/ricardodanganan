@@ -10,7 +10,7 @@
 - 👯 I’m not doing collaborations at the moment
 
 - 📫 How to reach me: **ricardo_danganan@yahoo.com** and  <a href="https://www.linkedin.com/in/ricardo-danganan-jnr-a447a520a/?profileId=ACoAADUnhZQBi_pa1lGAuWV1DlgqQj328B9WyZU" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> https://www.linkedin.com/in/ricardo-danganan-jnr
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My LinkedIn
   </a> &nbsp; 
 
 
